@@ -6,7 +6,6 @@ I'm **Alexander Saravia**, a passionate and innovative **Artificial Intelligence
 
 <div style="background-color:#6200ea; color:white; padding:10px; display:flex; align-items:center; justify-content:space-between;">
   <div style="display:flex; align-items:center;">
-    <img src="https://avatars.githubusercontent.com/u/37751473?s=400&u=1edf32a826571d54e211bf92b20ba5509a864b64&v=4" alt="Profile Image" style="border-radius:50%; width:80px; height:80px; margin-right:20px;">
     <div>
       <h2 style="margin:0; color:white;">Alexander Saravia</h2>
       <p style="margin:5px 0;">Architect of Artificial Intelligence | Data Scientist | IT/OT Solutions Designer</p>
