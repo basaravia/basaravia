@@ -33,8 +33,8 @@ I'm dedicated to constantly innovating, spreading, and combining technological t
 ---
 
 ### Education
-- **Master’s in Computational Intelligence (Pending Thesis)**  
-  COPPE/PEE - Federal University of Rio de Janeiro, Rio de Janeiro (Brazil - Virtual) | Oct. 2020 - Mar. 2023
+- **Master’s in Electrical Engineering - Computational Intelligence (Pending Thesis)**  
+  COPPE/PEE - Federal University of Rio de Janeiro, Rio de Janeiro | Oct. 2020 - Mar. 2023
 
 - **Bachelor’s in Electronics, Automation and Control Engineering**  
   Armed Forces University – ESPE, Sangolquí (Ecuador) | Sep. 2014 - Jan. 2020
