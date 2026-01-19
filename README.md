@@ -33,6 +33,9 @@ I'm dedicated to constantly innovating, spreading, and combining technological t
 ---
 
 ### Education
+- **Master´s of Science in Information Systems, Specialization in Data Science**  
+  Pontificia Universidad Católica del Ecuador, Quito (Ecuador) | Mar. 2025 - Apr. 2026
+  
 - **Master’s in Electrical Engineering - Computational Intelligence (Pending Thesis)**  
   COPPE/PEE - Federal University of Rio de Janeiro, Rio de Janeiro | Oct. 2020 - Mar. 2023
 
