@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=Principal+AI+Architect+%7C+Technical+Lead;AI+Audit+%26+Governance+Lead+%7C+ISO%2FIEC+42001;Agentic+AI+%7C+Deep+Learning+%7C+Big+Data+%7C+Edge+AI+%26+IoT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=6E40C9&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%24+whoami++%23+Principal+AI+Architect+%7C+Technical+Lead;role+%3D+%27AI+Audit+%26+Governance+Lead%27;while+alive%3A+learn%28%29%3B+build%28%29%3B+ride%28%29;stack+%3D+%5Bagentic_ai%2C+deep_learning%2C+big_data%2C+edge_iot%5D;%2F%2F+lifelong+learner+%F0%9F%A4%98+symphonic+metal+%2B+XC+bike)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,7 +26,8 @@
 - 🧑‍🤝‍🧑 Technical lead of a 10-person cross-functional team, human specialists plus virtual agent teams, driven by specifications *(one-pizza agentic team, inspired by McKinsey's Rewired)*
 - 🎓 MSc Data Science (PUCE) · MSc studies in Computational Intelligence (COPPE/UFRJ, coursework completed)
 - 🏅 International patent in Edge AI with 3D vision, Universidad Indoamérica
-- 🌱 Lifelong learner · Community: [Saturdays AI Quito](https://saturdays.ai/), tinyML Foundation, IEEE CIS and RAS
+- 📚 **Lifelong learner**: always breaking something new to understand how it works
+- 🌱 Community: [Saturdays AI Quito](https://saturdays.ai/), tinyML Foundation, IEEE CIS and RAS
 
 ---
 
@@ -36,8 +37,8 @@
 <tr>
 <td width="50%">
 
-### 🤖 GenAI Agent in 200 Branches
-Designed and ran end to end a generative AI agent used nationwide: answers from **~20 min to ≤ 8 s**, **5K+ active users**, **200K+ questions**, **80% satisfaction**. **FELABAN Digital Innovation Award 2026** (AI category, 1st place in Latin America).
+### 🤖 One agent, 200 branches (and a trophy)
+Built and ran a GenAI agent that went nationwide: staff get answers in **≤ 8 s instead of ~20 min**, **5K+ people** use it, **200K+ questions** asked, **80% happy users**. It even took home **FELABAN's Digital Innovation Award 2026** 🏆 (1st in Latin America).
 
 </td>
 <td width="50%">
@@ -149,6 +150,14 @@ First internationally patented product for Universidad Indoamérica: **Edge AI i
 | Advanced Python Programming | Google |
 | Scrum Professional Certificate | Agile |
 | LOPDP — Personal Data Protection | Ecuador |
+
+---
+
+## 🎸 Off the Keyboard
+
+- 🎻🤘 **Symphonic metal**: orchestra + distortion, my favorite way to debug in flow. Good systems, like good arrangements, have many layers working in sync.
+- 🚵 **XC mountain biking & off-road**: pacing, reading the terrain and picking the line. Same skills as shipping to production.
+- 🧠 **Lifelong learner**: if it's new, I'm probably already trying it in a notebook.
 
 ---
 
