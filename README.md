@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexander%20Saravia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asaravia/)
 [![YouTube](https://img.shields.io/badge/YouTube-@basaravia-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@basaravia)
-[![Location](https://img.shields.io/badge/📍_Quito-Ecuador-2E8B57?style=for-the-badge)](https://www.google.com/maps/place/Quito)
+[![Location](https://img.shields.io/badge/📍_Quito-Ecuador-87CF3E?style=for-the-badge)](https://www.google.com/maps/place/Quito)
 
 <br/>
 
@@ -95,18 +95,18 @@ First internationally patented product for Universidad Indoamérica: **Edge AI i
 ### 🔬 Deep Learning & GenAI — Core Strength
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-Fine--tuning_&_Inference-6E40C9?style=flat-square)
-![VLMs](https://img.shields.io/badge/VLMs-Vision_Language_Models-6E40C9?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-YOLO_&_Custom-6E40C9?style=flat-square)
-![Audio Processing](https://img.shields.io/badge/Audio_Processing-Speech_AI-6E40C9?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-Fine--tuning_&_Inference-87CF3E?style=flat-square)
+![VLMs](https://img.shields.io/badge/VLMs-Vision_Language_Models-87CF3E?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-YOLO_&_Custom-87CF3E?style=flat-square)
+![Audio Processing](https://img.shields.io/badge/Audio_Processing-Speech_AI-87CF3E?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-000000?style=flat-square)
 
 ### 🕸️ Agentic AI — End-to-End Design
 ![LangGraph](https://img.shields.io/badge/LangGraph-Orchestration-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-6E40C9?style=flat-square)
-![A2A](https://img.shields.io/badge/A2A-Agent_to_Agent-6E40C9?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Hybrid_Retrieval-6E40C9?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-87CF3E?style=flat-square)
+![A2A](https://img.shields.io/badge/A2A-Agent_to_Agent-87CF3E?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Hybrid_Retrieval-87CF3E?style=flat-square)
 ![pgvector](https://img.shields.io/badge/pgvector-Vector_DB-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### 📊 Big Data & MLOps
@@ -119,9 +119,9 @@ First internationally patented product for Universidad Indoamérica: **Edge AI i
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ### 🛡️ AI Governance
-![ISO 42001](https://img.shields.io/badge/ISO_42001-2E8B57?style=flat-square)
-![NIST AI](https://img.shields.io/badge/NIST_AI_RMF-2E8B57?style=flat-square)
-![OWASP](https://img.shields.io/badge/OWASP_for_AI-2E8B57?style=flat-square)
+![ISO 42001](https://img.shields.io/badge/ISO_42001-87CF3E?style=flat-square)
+![NIST AI](https://img.shields.io/badge/NIST_AI_RMF-87CF3E?style=flat-square)
+![OWASP](https://img.shields.io/badge/OWASP_for_AI-87CF3E?style=flat-square)
 
 ### ⚡ Background — Hardware & Edge AI
 ![Edge AI](https://img.shields.io/badge/Edge_AI-International_Patent-FF6900?style=flat-square)
@@ -165,10 +165,10 @@ First internationally patented product for Universidad Indoamérica: **Edge AI i
 
 <div align="center">
 
-![Alexander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=basaravia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basaravia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Alexander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=basaravia&show_icons=true&bg_color=1E1E1E&title_color=87CF3E&text_color=D4D4D4&icon_color=87CF3E&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basaravia&layout=compact&bg_color=1E1E1E&title_color=87CF3E&text_color=D4D4D4&icon_color=87CF3E&hide_border=true&langs_count=8)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=basaravia&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=basaravia&background=1E1E1E&ring=87CF3E&fire=87CF3E&currStreakLabel=87CF3E&sideLabels=87CF3E&currStreakNum=D4D4D4&sideNums=D4D4D4&dates=6B6B6B&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
