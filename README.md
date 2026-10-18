@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alexander%20Saravia&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Principal%20AI%20Architect%20%7C%20Technical%20Lead%20%7C%20AI%20Audit%20%26%20Governance%20Lead&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alexander%20Saravia&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Principal%20AI%20Architect%20%7C%20Technical%20Lead%20%7C%20AI%20Audit%20and%20Governance%20Lead&descAlignY=55&descSize=16" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexander%20Saravia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asaravia/)
 [![YouTube](https://img.shields.io/badge/YouTube-@basaravia-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@basaravia)
