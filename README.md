@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:300A24,100:0D1B2A&height=180&section=header&text=%24%20Alexander%20Saravia&fontSize=42&fontColor=87CF3E&animation=twinkling&fontAlignY=32&desc=Principal%20AI%20Architect%20%7C%20Technical%20Lead%20%7C%20AI%20Audit%20and%20Governance%20Lead&descAlignY=55&descSize=16" />
+<img src="assets/header.svg" alt="Alexander Saravia · Principal AI Architect · Technical Lead · AI Audit and Governance Lead" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexander%20Saravia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asaravia/)
 [![YouTube](https://img.shields.io/badge/YouTube-@basaravia-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@basaravia)
@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=87CF3E&background=300A24&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%24+whoami++%23+Principal+AI+Architect+%7C+Technical+Lead;role+%3D+%27AI+Audit+%26+Governance+Lead%27;while+alive%3A+learn%28%29%3B+build%28%29%3B+ride%28%29;stack+%3D+%5Bagentic_ai%2C+deep_learning%2C+big_data%2C+edge_iot%5D;%2F%2F+lifelong+learner+%F0%9F%A4%98+symphonic+metal+%2B+XC+bike)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=87CF3E&background=1E1E1E&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%24+whoami++%23+Principal+AI+Architect+%7C+Technical+Lead;role+%3D+%27AI+Audit+%26+Governance+Lead%27;while+alive%3A+learn%28%29%3B+build%28%29%3B+ride%28%29;stack+%3D+%5Bagentic_ai%2C+deep_learning%2C+big_data%2C+edge_iot%5D;%2F%2F+lifelong+learner+%F0%9F%A4%98+symphonic+metal+%2B+XC+bike)](https://git.io/typing-svg)
 
 </div>
 
@@ -188,6 +188,6 @@ First internationally patented product for Universidad Indoamérica: **Edge AI i
 
 *Career narrative on [LinkedIn](https://www.linkedin.com/in/asaravia)*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1E1E,100:87CF3E&height=100&section=footer" />
 
 </div>
