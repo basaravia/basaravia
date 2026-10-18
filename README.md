@@ -121,7 +121,6 @@ First internationally patented product for Universidad Indoamérica: **Edge AI i
 ![ISO 42001](https://img.shields.io/badge/ISO_42001-2E8B57?style=flat-square)
 ![NIST AI](https://img.shields.io/badge/NIST_AI_RMF-2E8B57?style=flat-square)
 ![OWASP](https://img.shields.io/badge/OWASP_for_AI-2E8B57?style=flat-square)
-![SOC II](https://img.shields.io/badge/SOC_II_Type_II-2E8B57?style=flat-square)
 
 ### ⚡ Background — Hardware & Edge AI
 ![Edge AI](https://img.shields.io/badge/Edge_AI-International_Patent-FF6900?style=flat-square)
