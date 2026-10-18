@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Alexander Saravia · Principal AI Architect · Technical Lead · AI Audit & Governance Lead" src="assets/banner-light.svg" width="100%">
-</picture>
+<img alt="Alexander Saravia · Principal AI Architect · Technical Lead · AI Audit & Governance Lead" src="assets/banner.svg" width="100%">
 
 **Enterprise-scale AI architecture** · Quito, Ecuador · [LinkedIn](https://www.linkedin.com/in/asaravia)
 
@@ -15,17 +12,11 @@ Lifelong learner. I like building, breaking and explaining things, so you'll fin
 
 ## Four fronts, one system
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/axes-dark.svg">
-  <img alt="AI and Agentic, Data Science, Big Data, Edge AI and IoT" src="assets/axes-light.svg" width="100%">
-</picture>
+<img alt="AI and Agentic, Data Science, Big Data, Edge AI and IoT" src="assets/axes.svg" width="100%">
 
 ## Results in production
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/results-dark.svg">
-  <img alt="200 branches, 20 min to 8 s, 200K+ questions, 80% satisfaction, 4M users protected" src="assets/results-light.svg" width="100%">
-</picture>
+<img alt="200 branches, 20 min to 8 s, 200K+ questions, 80% satisfaction, 4M users protected" src="assets/results.svg" width="100%">
 
 Technical lead of a 10-person cross-functional team (DevOps, QA, senior engineers, cloud, solution, data and security architects) across the full lifecycle: feasibility, business case, budget readiness and delivery to operations.
 
