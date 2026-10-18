@@ -1,74 +1,185 @@
 <div align="center">
 
-<img alt="Alexander Saravia · Principal AI Architect · Technical Lead · AI Audit & Governance Lead" src="assets/banner.svg" width="100%">
+<!-- HEADER ANIMADO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alexander%20Saravia&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Principal%20AI%20Architect%20%7C%20Technical%20Lead%20%7C%20AI%20Audit%20%26%20Governance%20Lead&descAlignY=55&descSize=16" />
 
-**Enterprise-scale AI architecture** · Quito, Ecuador · [LinkedIn](https://www.linkedin.com/in/asaravia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexander%20Saravia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asaravia/)
+[![YouTube](https://img.shields.io/badge/YouTube-@basaravia-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@basaravia)
+[![Location](https://img.shields.io/badge/📍_Quito-Ecuador-2E8B57?style=for-the-badge)](https://www.google.com/maps/place/Quito)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=Principal+AI+Architect+%7C+Technical+Lead;AI+Audit+%26+Governance+Lead+%7C+ISO%2FIEC+42001;Agentic+AI+%7C+Deep+Learning+%7C+Big+Data+%7C+Edge+AI+%26+IoT)](https://git.io/typing-svg)
 
 </div>
 
-I design AI systems end to end (data and models, agent orchestration, security, observability, cost) and govern them against ISO/IEC 42001 and Ecuador's LOPDP. Production work is under employer confidentiality; the public repositories are reference implementations on public data.
+---
 
-Lifelong learner. I like building, breaking and explaining things, so you'll find labs, notebooks and learning paths here more than polished products.
+## 🧠 About Me
 
-## Four fronts, one system
+**Principal AI Architect, Technical Lead and AI Audit & Governance Lead.** I design AI systems **end to end** (data and models, agent orchestration, security, observability, cost) and govern them against **ISO/IEC 42001** and Ecuador's **LOPDP**. Production work is under employer confidentiality; the public repositories are reference implementations on public data.
 
-<img alt="AI and Agentic, Data Science, Big Data, Edge AI and IoT" src="assets/axes.svg" width="100%">
+> *"My path is to transform the technical complexity of hardware and software into exploitable knowledge."*
 
-## Results in production
+- 🏦 Currently: **AI Audit Lead** @ Produbanco *(Apr 2026 – Present)*
+- 🤖 Core expertise: **Agentic AI · Deep Learning · Big Data · Edge AI & IoT**
+- 🧑‍🤝‍🧑 Technical lead of a 10-person cross-functional team, human specialists plus virtual agent teams, driven by specifications *(one-pizza agentic team, inspired by McKinsey's Rewired)*
+- 🎓 MSc Data Science (PUCE) · MSc studies in Computational Intelligence (COPPE/UFRJ, coursework completed)
+- 🏅 International patent in Edge AI with 3D vision, Universidad Indoamérica
+- 🌱 Lifelong learner · Community: [Saturdays AI Quito](https://saturdays.ai/), tinyML Foundation, IEEE CIS and RAS
 
-<img alt="200 branches, 20 min to 8 s, 200K+ questions, 80% satisfaction, 4M users protected" src="assets/results.svg" width="100%">
+---
 
-Technical lead of a 10-person cross-functional team (DevOps, QA, senior engineers, cloud, solution, data and security architects) across the full lifecycle: feasibility, business case, budget readiness and delivery to operations.
+## 🏆 Key Achievements
 
-## Reference architecture
+<table>
+<tr>
+<td width="50%">
 
-A generic pattern, not a description of any employer's system.
+### 🤖 GenAI Agent in 200 Branches
+Designed and ran end to end a generative AI agent used nationwide: answers from **~20 min to ≤ 8 s**, **5K+ active users**, **200K+ questions**, **80% satisfaction**. **FELABAN Digital Innovation Award 2026** (AI category, 1st place in Latin America).
 
-```mermaid
-flowchart LR
-  A[Data sources<br/>batch · streaming · edge] --> B[Data platform<br/>quality · lineage · features]
-  B --> C[Models<br/>deep learning · LLMs · VLMs]
-  C --> D[Agents<br/>orchestration · MCP · A2A]
-  D --> E[Business channels]
-  G[Governance and security<br/>ISO/IEC 42001 · NIST AI RMF · OWASP · LOPDP]
-  G -.-> B
-  G -.-> C
-  G -.-> D
-  H[Human oversight · traceability · observability · cost] -.-> D
-  H -.-> E
+</td>
+<td width="50%">
+
+### 🕸️ Agentic Architecture with MCP/A2A
+Defined integration patterns, access controls and security standards for LLM-based agents, with human oversight and traceability aligned to ISO/IEC 42001 and LOPDP.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔍 Fraud Detection for 4M+ Users
+Variational autoencoders for anomaly detection on highly imbalanced transactions, cyclic features re-encoded by change of coordinates, and a behavioral rules engine that cut transaction delays.
+
+</td>
+<td width="50%">
+
+### 🏅 International Patent — Edge AI
+First internationally patented product for Universidad Indoamérica: **Edge AI inference on SBC** with Intel RealSense 3D vision, real-time deep learning at the edge.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experience
+
+```
+2026 → Produbanco           │ AI Audit Lead
+                            │ AI governance · Risk auditing · ISO/IEC 42001
+
+2024 → Banco Pichincha      │ AI Architect
+                            │ GenAI agents · LLMs/VLMs · MCP/A2A · Governance · Cloud sandboxes
+
+2023 → Banco Pichincha      │ Data Scientist – Cybersecurity
+                            │ Big Data (PySpark) · VAEs · Fraud and anomaly detection
+
+2022 → Prediqt              │ Data Scientist
+                            │ ML pipelines · ETL · Feature engineering · Kedro
+
+2021 → ESPOL                │ Research Data Scientist
+                            │ Deep Learning on physiological time series & BCI systems
+
+2021 → Indoamérica          │ ML Engineer  ★ International Patent
+                            │ Edge AI · Real-time Deep Learning · Intel RealSense 3D
 ```
 
-## How a human + agent team operates
+---
 
-I lead hybrid teams: human specialists and virtual agent teams, driven by specifications, explicit invariants and automated quality gates (spec-driven design). The goal is a **one-pizza agentic team**: small, autonomous and accountable. Inspired by McKinsey's *Rewired* work on rebuilding tech talent.
+## 🛠️ Tech Stack
 
-- **Specifications first:** invariants and quality gates written down so human and virtual teams build the same thing.
-- **Governance and security by design, from day one:** OWASP Top 10 for LLM and agentic applications, risk matrices, least privilege.
-- **Human oversight and traceability** in every agent, aligned with ISO/IEC 42001 and LOPDP.
-- **Observability and cost as requirements**, from MVP to production load.
+### 🔬 Deep Learning & GenAI — Core Strength
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-Fine--tuning_&_Inference-6E40C9?style=flat-square)
+![VLMs](https://img.shields.io/badge/VLMs-Vision_Language_Models-6E40C9?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-YOLO_&_Custom-6E40C9?style=flat-square)
+![Audio Processing](https://img.shields.io/badge/Audio_Processing-Speech_AI-6E40C9?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-000000?style=flat-square)
 
-## Public technical work
+### 🕸️ Agentic AI — End-to-End Design
+![LangGraph](https://img.shields.io/badge/LangGraph-Orchestration-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-6E40C9?style=flat-square)
+![A2A](https://img.shields.io/badge/A2A-Agent_to_Agent-6E40C9?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Hybrid_Retrieval-6E40C9?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-Vector_DB-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-| Front | Repository | What it demonstrates |
-|---|---|---|
-| AI & Agentic | [`taller-ia-cibersecurity`](https://github.com/basaravia/taller-ia-cibersecurity) | Hands-on lab for OWASP LLM and Agentic risks: 20 scenario branches with checklists, a LangGraph agent CLI, a multi-agent mesh sandbox and two OWASP notebooks |
-| AI & Agentic | [`langchain-mcp-duckduckgo`](https://github.com/basaravia/langchain-mcp-duckduckgo) | Agent with a remote MCP server and a local model |
-| AI & Agentic | [`agente_sp2sp`](https://github.com/basaravia/agente_sp2sp) | Spanish conversational agent with RAG, LLM and audio processing |
-| Data Science | [`document-parsing-dl-mllm`](https://github.com/basaravia/document-parsing-dl-mllm) | Content extraction and layout identification with deep learning and multimodal models |
-| Data Science | [`img-similarity`](https://github.com/basaravia/img-similarity) | Siamese CNN and metric learning for image similarity |
-| Learning | [`advanced-ai-path`](https://github.com/basaravia/advanced-ai-path) | Structured path from fundamentals to scalable AI architectures |
-| Edge AI & IoT | [`iot_codes`](https://github.com/basaravia/iot_codes) · [`Laboratorio_IoT_AI6_UIO`](https://github.com/basaravia/Laboratorio_IoT_AI6_UIO) | Raspberry Pi and IoT course material and hands-on lab |
+### 📊 Big Data & MLOps
+![PySpark](https://img.shields.io/badge/PySpark-Big_Data-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-## Research, patent and community
+### 🛡️ AI Governance
+![ISO 42001](https://img.shields.io/badge/ISO_42001-2E8B57?style=flat-square)
+![NIST AI](https://img.shields.io/badge/NIST_AI_RMF-2E8B57?style=flat-square)
+![OWASP](https://img.shields.io/badge/OWASP_for_AI-2E8B57?style=flat-square)
+![SOC II](https://img.shields.io/badge/SOC_II_Type_II-2E8B57?style=flat-square)
 
-- International patent, Edge AI inference with 3D vision (Universidad Indoamérica)
-- Variational autoencoders for fraud and anomaly detection on highly imbalanced data; PySpark pipelines at scale
-- MSc Data Science, PUCE. MSc studies in Computational Intelligence, COPPE/UFRJ (coursework completed)
-- Teaching and community: Saturdays.AI, tinyML Foundation, IEEE CIS and RAS
+### ⚡ Background — Hardware & Edge AI
+![Edge AI](https://img.shields.io/badge/Edge_AI-International_Patent-FF6900?style=flat-square)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![OPC-UA](https://img.shields.io/badge/OPC--UA-Industrial-FF6900?style=flat-square)
 
-<details>
-<summary>Resumen en español</summary>
+---
 
-Arquitecto principal de IA, líder técnico y líder de auditoría y gobierno de IA. Diseño sistemas de IA de punta a punta (datos, modelos, orquestación de agentes, seguridad, observabilidad y costos) y los gobierno con ISO/IEC 42001 y la LOPDP. Lidero equipos híbridos de especialistas humanos y agentes virtuales, guiados por especificaciones, hacia el equipo agéntico de una pizza, inspirado en el trabajo de McKinsey (*Rewired*) sobre talento tecnológico. Resultados en producción: agente de IA generativa en 200 agencias (de ~20 min a ≤ 8 s, +5.000 usuarios, 80 % de satisfacción; Premio FELABAN 2026, primer lugar en Latinoamérica) y detección de fraude para un canal de 4 millones de usuarios. El trabajo de producción está bajo confidencialidad; los repositorios públicos son implementaciones de referencia con datos públicos.
+## 🎓 Education
 
-</details>
+| Degree | Institution | Year |
+|--------|-------------|------|
+| 🎓 **MSc Information Systems — Data Science** | Pontificia Universidad Católica del Ecuador | 2025 – 2026 |
+| 🎓 **MSc studies — Computational Intelligence** (coursework completed) | COPPE/PEE · UFRJ, Brasil | 2020 – 2022 |
+| 🎓 **BSc Electronics, Automation & Control Engineering** | Universidad de las Fuerzas Armadas – ESPE | 2014 – 2020 |
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuer |
+|---------------|--------|
+| LangChain & LangGraph with Python | LangChain |
+| PySpark | Databricks |
+| Advanced Python Programming | Google |
+| Scrum Professional Certificate | Agile |
+| LOPDP — Personal Data Protection | Ecuador |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Alexander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=basaravia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basaravia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=basaravia&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🔬 What I'm Building / Thinking About
+
+- 🧩 **Agentic systems at scale** — multi-agent orchestration with MCP & A2A, security patterns, human oversight
+- 🧠 **LLM & Deep Learning pipelines** — from data ingestion and fine-tuning to production observability
+- 🛡️ **AI Governance** — ISO/IEC 42001, NIST AI RMF, OWASP for LLM and agentic apps
+- 📡 **Edge AI & IoT** — inference where the event happens
+- 🧑‍🤝‍🧑 **Hybrid teams** — humans plus virtual agents, spec-driven, one-pizza agentic team
+
+---
+
+<div align="center">
+
+*Career narrative on [LinkedIn](https://www.linkedin.com/in/asaravia)*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+</div>
