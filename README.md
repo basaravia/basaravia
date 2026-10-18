@@ -1,81 +1,83 @@
-# Alexander Saravia
+<div align="center">
 
-**Principal AI Architect · Technical Lead · AI Audit & Governance Lead** · Quito, Ecuador
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Alexander Saravia · Principal AI Architect · Technical Lead · AI Audit & Governance Lead" src="assets/banner-light.svg" width="100%">
+</picture>
 
-I design AI systems end to end (data and models, agent orchestration, security, observability, cost) and govern them against ISO/IEC 42001 and Ecuador's LOPDP. Production work is under employer confidentiality; the public repositories are reference implementations on public data. Career narrative: [LinkedIn](https://www.linkedin.com/in/asaravia).
+**Enterprise-scale AI architecture** · Quito, Ecuador · [LinkedIn](https://www.linkedin.com/in/asaravia)
+
+</div>
+
+I design AI systems end to end (data and models, agent orchestration, security, observability, cost) and govern them against ISO/IEC 42001 and Ecuador's LOPDP. Production work is under employer confidentiality; the public repositories are reference implementations on public data.
 
 Lifelong learner. I like building, breaking and explaining things, so you'll find labs, notebooks and learning paths here more than polished products.
 
-> **Working maxim:** I lead hybrid engineering teams, human specialists and virtual agent teams, driven by specifications, explicit invariants and automated quality gates (spec-driven design).
+## Four fronts, one system
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/axes-dark.svg">
+  <img alt="AI and Agentic, Data Science, Big Data, Edge AI and IoT" src="assets/axes-light.svg" width="100%">
+</picture>
 
 ## Results in production
 
-| System | Outcome |
-|---|---|
-| Generative AI agent for branch staff, deployed across 200 branches | Answer retrieval from ~20 min to ≤ 8 s; 5,000+ active users, 200,000+ questions, 80% satisfaction. Designed and run end to end: infrastructure, assurance, monitoring, cost. FELABAN Digital Innovation Award 2026, AI category, first place in Latin America. |
-| Fraud detection for a 4M-user digital channel | Variational autoencoders for anomaly detection on highly imbalanced transactions; cyclic features (time of day, weekday) re-encoded by change of coordinates; behavioral rules engine that cut transaction delays. |
-| Edge AI on single-board computers with 3D vision | Real-time deep learning inference at the edge; internationally published patent. |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/results-dark.svg">
+  <img alt="200 branches, 20 min to 8 s, 200K+ questions, 80% satisfaction, 4M users protected" src="assets/results-light.svg" width="100%">
+</picture>
 
 Technical lead of a 10-person cross-functional team (DevOps, QA, senior engineers, cloud, solution, data and security architects) across the full lifecycle: feasibility, business case, budget readiness and delivery to operations.
 
----
+## Reference architecture
 
-## How I architect
+A generic pattern, not a description of any employer's system.
 
-- **Governance and security by design, from day one.** OWASP Top 10 for LLM and agentic applications, risk matrices, least privilege.
+```mermaid
+flowchart LR
+  A[Data sources<br/>batch · streaming · edge] --> B[Data platform<br/>quality · lineage · features]
+  B --> C[Models<br/>deep learning · LLMs · VLMs]
+  C --> D[Agents<br/>orchestration · MCP · A2A]
+  D --> E[Business channels]
+  G[Governance and security<br/>ISO/IEC 42001 · NIST AI RMF · OWASP · LOPDP]
+  G -.-> B
+  G -.-> C
+  G -.-> D
+  H[Human oversight · traceability · observability · cost] -.-> D
+  H -.-> E
+```
+
+## How a human + agent team operates
+
+I lead hybrid teams: human specialists and virtual agent teams, driven by specifications, explicit invariants and automated quality gates (spec-driven design). The goal is a **one-pizza agentic team**: small, autonomous and accountable. Inspired by McKinsey's *Rewired* work on rebuilding tech talent.
+
+- **Specifications first:** invariants and quality gates written down so human and virtual teams build the same thing.
+- **Governance and security by design, from day one:** OWASP Top 10 for LLM and agentic applications, risk matrices, least privilege.
 - **Human oversight and traceability** in every agent, aligned with ISO/IEC 42001 and LOPDP.
-- **Observability and cost as requirements**, not afterthoughts.
-- **From MVP to production load**: sizing, sandboxes, and protocols (MCP, A2A) before scale.
-- **Specifications first**: invariants and quality gates written down so human and virtual teams build the same thing.
+- **Observability and cost as requirements**, from MVP to production load.
 
----
+## Public technical work
 
-## Technical depth
-
-**Deep learning and representation learning**
-- Variational autoencoders and anomaly detection on imbalanced tabular and temporal data
-- Siamese CNNs and metric learning for similarity ([`img-similarity`](https://github.com/basaravia/img-similarity))
-- Vision-language models and document layout understanding ([`document-parsing-dl-mllm`](https://github.com/basaravia/document-parsing-dl-mllm))
-
-**Agentic systems**
-- Multi-agent orchestration with LangGraph; tool use over MCP ([`langchain-mcp-duckduckgo`](https://github.com/basaravia/langchain-mcp-duckduckgo))
-- Conversational agents with RAG and audio ([`agente_sp2sp`](https://github.com/basaravia/agente_sp2sp))
-- Local and private model serving for sensitive workloads
-
-**Security and governance**
-- Hands-on OWASP Top 10 for LLM Applications (2025) and for Agentic Applications (2026) ([`taller-ia-cibersecurity`](https://github.com/basaravia/taller-ia-cibersecurity))
-- ISO/IEC 42001 and NIST AI RMF applied across projects: human oversight, traceability, risk matrices
-
-**Data and platform**
-- PySpark at scale, Python, SQL, Docker, Kubernetes, PyTorch
-
----
-
-## Selected repositories
-
-| Repository | What it demonstrates |
-|---|---|
-| [`taller-ia-cibersecurity`](https://github.com/basaravia/taller-ia-cibersecurity) | Hands-on lab for OWASP LLM and Agentic risks: 20 scenario branches with checklists, a LangGraph agent CLI, a multi-agent mesh sandbox and two OWASP notebooks |
-| [`langchain-mcp-duckduckgo`](https://github.com/basaravia/langchain-mcp-duckduckgo) | Agent with a remote MCP server and a local model |
-| [`agente_sp2sp`](https://github.com/basaravia/agente_sp2sp) | Spanish conversational agent with RAG, LLM and audio processing |
-| [`document-parsing-dl-mllm`](https://github.com/basaravia/document-parsing-dl-mllm) | Content extraction and layout identification with deep learning and multimodal models |
-| [`advanced-ai-path`](https://github.com/basaravia/advanced-ai-path) | Structured path from fundamentals to scalable AI architectures |
-
----
+| Front | Repository | What it demonstrates |
+|---|---|---|
+| AI & Agentic | [`taller-ia-cibersecurity`](https://github.com/basaravia/taller-ia-cibersecurity) | Hands-on lab for OWASP LLM and Agentic risks: 20 scenario branches with checklists, a LangGraph agent CLI, a multi-agent mesh sandbox and two OWASP notebooks |
+| AI & Agentic | [`langchain-mcp-duckduckgo`](https://github.com/basaravia/langchain-mcp-duckduckgo) | Agent with a remote MCP server and a local model |
+| AI & Agentic | [`agente_sp2sp`](https://github.com/basaravia/agente_sp2sp) | Spanish conversational agent with RAG, LLM and audio processing |
+| Data Science | [`document-parsing-dl-mllm`](https://github.com/basaravia/document-parsing-dl-mllm) | Content extraction and layout identification with deep learning and multimodal models |
+| Data Science | [`img-similarity`](https://github.com/basaravia/img-similarity) | Siamese CNN and metric learning for image similarity |
+| Learning | [`advanced-ai-path`](https://github.com/basaravia/advanced-ai-path) | Structured path from fundamentals to scalable AI architectures |
+| Edge AI & IoT | [`iot_codes`](https://github.com/basaravia/iot_codes) · [`Laboratorio_IoT_AI6_UIO`](https://github.com/basaravia/Laboratorio_IoT_AI6_UIO) | Raspberry Pi and IoT course material and hands-on lab |
 
 ## Research, patent and community
 
 - International patent, Edge AI inference with 3D vision (Universidad Indoamérica)
+- Variational autoencoders for fraud and anomaly detection on highly imbalanced data; PySpark pipelines at scale
 - MSc Data Science, PUCE. MSc studies in Computational Intelligence, COPPE/UFRJ (coursework completed)
 - Teaching and community: Saturdays.AI, tinyML Foundation, IEEE CIS and RAS
-
----
 
 <details>
 <summary>Resumen en español</summary>
 
-Arquitecto principal de IA, líder técnico y líder de auditoría y gobierno de IA. Diseño sistemas de IA de punta a punta (datos, modelos, orquestación de agentes, seguridad, observabilidad y costos) y los gobierno con ISO/IEC 42001 y la LOPDP. Lidero equipos híbridos de especialistas humanos y agentes virtuales, guiados por especificaciones. Resultados en producción: agente de IA generativa en 200 agencias (de ~20 min a ≤ 8 s, +5.000 usuarios, 80 % de satisfacción; Premio FELABAN 2026, primer lugar en Latinoamérica) y detección de fraude para un canal de 4 millones de usuarios. El trabajo de producción está bajo confidencialidad; los repositorios públicos son implementaciones de referencia con datos públicos.
+Arquitecto principal de IA, líder técnico y líder de auditoría y gobierno de IA. Diseño sistemas de IA de punta a punta (datos, modelos, orquestación de agentes, seguridad, observabilidad y costos) y los gobierno con ISO/IEC 42001 y la LOPDP. Lidero equipos híbridos de especialistas humanos y agentes virtuales, guiados por especificaciones, hacia el equipo agéntico de una pizza, inspirado en el trabajo de McKinsey (*Rewired*) sobre talento tecnológico. Resultados en producción: agente de IA generativa en 200 agencias (de ~20 min a ≤ 8 s, +5.000 usuarios, 80 % de satisfacción; Premio FELABAN 2026, primer lugar en Latinoamérica) y detección de fraude para un canal de 4 millones de usuarios. El trabajo de producción está bajo confidencialidad; los repositorios públicos son implementaciones de referencia con datos públicos.
 
 </details>
