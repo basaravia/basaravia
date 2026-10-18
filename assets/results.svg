@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="190" viewBox="0 0 1280 190" role="img">
+<style>text{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace}</style><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A0714"/><stop offset="1" stop-color="#120B24"/></linearGradient>
+<filter id="g" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="gs" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="1.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="sc" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" fill-opacity=".035"/></pattern>
+</defs>
+<rect width="1280" height="190" rx="16" fill="url(#bg)"/><rect x="24" y="20" width="228" height="150" rx="12" fill="#07040F" fill-opacity=".85" stroke="#00F0FF" stroke-opacity=".7"/>
+<text x="44" y="50" font-size="12" fill="#7C74A8">&gt; stat[0]</text>
+<text x="44" y="108" font-size="46" font-weight="700" fill="#00F0FF" filter="url(#g)">200</text>
+<text x="44" y="136" font-size="14" fill="#E8E4FF">branches live</text>
+<rect x="44" y="150" width="188" height="6" rx="3" fill="#00F0FF" fill-opacity=".15"/>
+<rect x="44" y="150" width="188" height="6" rx="3" fill="#00F0FF" filter="url(#gs)"><animate attributeName="width" from="0" to="188" dur="1.6s" begin="0.0s" fill="freeze"/></rect><rect x="268" y="20" width="228" height="150" rx="12" fill="#07040F" fill-opacity=".85" stroke="#FF2E9A" stroke-opacity=".7"/>
+<text x="288" y="50" font-size="12" fill="#7C74A8">&gt; stat[1]</text>
+<text x="288" y="108" font-size="46" font-weight="700" fill="#FF2E9A" filter="url(#g)">20m→8s</text>
+<text x="288" y="136" font-size="14" fill="#E8E4FF">query answer time</text>
+<rect x="288" y="150" width="188" height="6" rx="3" fill="#FF2E9A" fill-opacity=".15"/>
+<rect x="288" y="150" width="179" height="6" rx="3" fill="#FF2E9A" filter="url(#gs)"><animate attributeName="width" from="0" to="179" dur="1.6s" begin="0.2s" fill="freeze"/></rect><rect x="512" y="20" width="228" height="150" rx="12" fill="#07040F" fill-opacity=".85" stroke="#39FF9A" stroke-opacity=".7"/>
+<text x="532" y="50" font-size="12" fill="#7C74A8">&gt; stat[2]</text>
+<text x="532" y="108" font-size="46" font-weight="700" fill="#39FF9A" filter="url(#g)">200K+</text>
+<text x="532" y="136" font-size="14" fill="#E8E4FF">questions answered</text>
+<rect x="532" y="150" width="188" height="6" rx="3" fill="#39FF9A" fill-opacity=".15"/>
+<rect x="532" y="150" width="169" height="6" rx="3" fill="#39FF9A" filter="url(#gs)"><animate attributeName="width" from="0" to="169" dur="1.6s" begin="0.4s" fill="freeze"/></rect><rect x="756" y="20" width="228" height="150" rx="12" fill="#07040F" fill-opacity=".85" stroke="#FFD166" stroke-opacity=".7"/>
+<text x="776" y="50" font-size="12" fill="#7C74A8">&gt; stat[3]</text>
+<text x="776" y="108" font-size="46" font-weight="700" fill="#FFD166" filter="url(#g)">80%</text>
+<text x="776" y="136" font-size="14" fill="#E8E4FF">user satisfaction</text>
+<rect x="776" y="150" width="188" height="6" rx="3" fill="#FFD166" fill-opacity=".15"/>
+<rect x="776" y="150" width="150" height="6" rx="3" fill="#FFD166" filter="url(#gs)"><animate attributeName="width" from="0" to="150" dur="1.6s" begin="0.6000000000000001s" fill="freeze"/></rect><rect x="1000" y="20" width="228" height="150" rx="12" fill="#07040F" fill-opacity=".85" stroke="#A98BFF" stroke-opacity=".7"/>
+<text x="1020" y="50" font-size="12" fill="#7C74A8">&gt; stat[4]</text>
+<text x="1020" y="108" font-size="46" font-weight="700" fill="#A98BFF" filter="url(#g)">4M</text>
+<text x="1020" y="136" font-size="14" fill="#E8E4FF">users protected</text>
+<rect x="1020" y="150" width="188" height="6" rx="3" fill="#A98BFF" fill-opacity=".15"/>
+<rect x="1020" y="150" width="188" height="6" rx="3" fill="#A98BFF" filter="url(#gs)"><animate attributeName="width" from="0" to="188" dur="1.6s" begin="0.8s" fill="freeze"/></rect>
+<rect width="1280" height="190" rx="16" fill="url(#sc)"/>
+<rect x="1" y="1" width="1278" height="188" rx="15" fill="none" stroke="#00F0FF" stroke-opacity=".35" filter="url(#gs)"/></svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img">
+<style>text{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace}</style><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A0714"/><stop offset="1" stop-color="#120B24"/></linearGradient>
+<filter id="g" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="gs" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="1.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="sc" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" fill-opacity=".035"/></pattern>
+</defs>
+<rect width="1280" height="360" rx="16" fill="url(#bg)"/><rect x="40" y="36" width="1200" height="288" rx="12" fill="#07040F" fill-opacity=".85" stroke="#A98BFF" stroke-opacity=".5"/>
+<circle cx="68" cy="60" r="6" fill="#FF2E9A"/><circle cx="90" cy="60" r="6" fill="#FFD166"/><circle cx="112" cy="60" r="6" fill="#39FF9A"/>
+<text x="640" y="65" font-size="13" fill="#7C74A8" text-anchor="middle">alexander@ai-lab: ~/profile</text>
+<line x1="40" y1="82" x2="1240" y2="82" stroke="#A98BFF" stroke-opacity=".3"/>
+<text x="72" y="124" font-size="20" fill="#39FF9A" filter="url(#gs)">$</text><clipPath id="t1"><rect x="98" y="102" width="260" height="30"><animate attributeName="width" from="0" to="260" begin="0.3s" dur="0.7s" fill="freeze"/></rect></clipPath>
+<text x="98" y="124" font-size="20" font-weight="400" fill="#E8E4FF" clip-path="url(#t1)">whoami</text>
+<text x="72" y="178" font-size="48" font-weight="700" fill="#00F0FF" filter="url(#g)">&gt; Alexander Saravia</text>
+<clipPath id="t2"><rect x="72" y="194" width="1100" height="32"><animate attributeName="width" from="0" to="1100" begin="1.2s" dur="2.2s" fill="freeze"/></rect></clipPath>
+<text x="72" y="218" font-size="22" font-weight="400" fill="#FF2E9A" clip-path="url(#t2)" filter="url(#gs)">principal ai architect · technical lead · ai audit &amp; governance lead</text>
+<text x="72" y="262" font-size="20" fill="#39FF9A" filter="url(#gs)">$</text><clipPath id="t3"><rect x="98" y="240" width="900" height="30"><animate attributeName="width" from="0" to="900" begin="3.6s" dur="2.4s" fill="freeze"/></rect></clipPath>
+<text x="98" y="262" font-size="20" font-weight="400" fill="#E8E4FF" clip-path="url(#t3)">stack --fronts  agentic_ai | data_science | big_data | edge_ai_iot</text>
+<text x="72" y="304" font-size="20" fill="#39FF9A" filter="url(#gs)">$</text><text x="98" y="304" font-size="20" fill="#FFD166">shipping to production</text>
+<rect x="372" y="287" width="12" height="20" fill="#00F0FF" filter="url(#gs)"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+<rect width="1280" height="360" rx="16" fill="url(#sc)"/>
+<rect x="1" y="1" width="1278" height="358" rx="15" fill="none" stroke="#00F0FF" stroke-opacity=".35" filter="url(#gs)"/></svg>
